@@ -55,10 +55,7 @@ let questions = [
       "eXamine Multiple Language"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
-
-    {
+   {
     numb: 6,
     question: "What is the use of Ctrl + 2",
     answer: "Double Spacing",
@@ -82,7 +79,7 @@ let questions = [
   },
   {
     numb: 8,
-    question: "To Close A DOcument",
+    question: "To Close A Document",
     answer: "Ctrl + W ",
     options: [
       "Ctrl + C ",
